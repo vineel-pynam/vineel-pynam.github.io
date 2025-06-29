@@ -13,7 +13,7 @@ const Hero = () => {
       <div className="max-w-4xl mx-auto text-center">
         {/* Profile Photo - Moved down with more top spacing */}
         <div className="mb-8">
-          <div className="w-40 h-40 mx-auto mb-6 rounded-full bg-gray-200 border-4 border-white shadow-xl overflow-hidden">
+          <div className="w-56 h-56 mx-auto mb-6 rounded-full bg-gray-200 border-4 border-white shadow-xl overflow-hidden">
             <img
               src={vineelImg}
               alt="Vineel Pynam"
